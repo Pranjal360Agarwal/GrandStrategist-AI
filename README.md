@@ -67,5 +67,5 @@ Open index.html in your web browser to launch the game.
 • Add additional customization options and game modes.
 
 
-
+# Made with ❤ by [Pranjal Agarwal](https://github.com/Pranjal360Agarwal).
 
