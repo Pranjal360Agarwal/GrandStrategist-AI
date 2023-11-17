@@ -22,3 +22,28 @@ The game interface is responsive and adapts to various screen sizes and devices.
 Seamlessly play the game across different devices, including desktops, tablets, and mobile phones.
 
 
+## Installation⚡
+
+0. Star ⭐
+
+1. Fork
+
+2. Clone the forked repository.
+
+```css
+git clone https://github.com/<your-github-username>/GrandStrategist-AI
+```
+
+3. Navigate to the project directory.
+
+```py
+cd Quizfinity
+```
+
+4. Install dependencies:
+
+```css
+Open index.html in your web browser to launch the game.
+```
+
+
