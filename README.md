@@ -46,4 +46,26 @@ cd Quizfinity
 Open index.html in your web browser to launch the game.
 ```
 
+## Usage
+
+• Select the game mode: "Play vs Computer" or "Player vs Player."
+• In AI Mode, choose the difficulty level for the computer opponent.
+• Make moves by clicking on the piece you want to move and then clicking on the destination square.
+• The game interface provides game status, possible moves, check, checkmate, and other critical information.
+• Enjoy the challenge of playing against the AI or engage in a classic chess match with a friend!
+
+
+## Credits
+
+• This project utilizes Chessboard.js for the chessboard UI.
+• The AI algorithms are based on Stockfish and Minimax with Alpha-Beta Pruning.
+
+## Known Issues / Future Improvements
+
+• Implement more advanced AI algorithms for a more challenging computer opponent.
+• Enhance the user interface for a better user experience.
+• Add additional customization options and game modes.
+
+
+
 
