@@ -69,7 +69,7 @@ cd Quizfinity
 
 • Enhance the user interface for a better user experiences.
 
-• Add additional customization options and game modes.
+• Add additional customization options and gaming modes.
 
 
 # Made with ❤ by [Pranjal Agarwal](https://github.com/Pranjal360Agarwal).
