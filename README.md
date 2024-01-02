@@ -58,7 +58,7 @@ cd Quizfinity
 
 ## Credits
 
-• This project utilizes Chessboard.js for the chessboard UI.
+• This project utilizes Chessboard.js for the chessboard UI mode.
 
 • The AI algorithms are based on Stockfish and Minimax with Alpha-Beta Pruning.
 
