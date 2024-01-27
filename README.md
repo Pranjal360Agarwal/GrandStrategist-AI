@@ -5,7 +5,7 @@ Welcome to the Chess Engine project! This project is browser-based chess game de
 
 # Features
 
-## 1. Play vs Computer (AI Mode)
+## 1. Play vs Computer (AI Mode) game
 
 Engage in a chess match against an AI-powered computer opponent.
 The AI employs sophisticated algorithms and strategies to make intelligent move.
