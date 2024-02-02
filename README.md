@@ -9,7 +9,7 @@ Welcome to the Chess Engine project! This project is browser-based chess game de
 
 Engage in a chess match against an AI-powered computer opponent.
 The AI employs sophisticated algorithms and strategies to make intelligent move.
-The difficulty level can be adjusted to suit different skill levels.
+The difficulty level can be adjusted to suit different skill level.
 
 ## 2. Player vs Player
 
