@@ -19,7 +19,7 @@ Play with a friend locally by taking turns on the same device.
 ## 3. Responsive Design
 
 The game interface is responsive and adapts to various screen sizes and devices.
-Seamlessly play the game across different devices, including desktops, tablets, and mobile phones.
+Seamlessly play the game across different devices, including desktops, tablets and mobile phones.
 
 
 ## Installation⚡
