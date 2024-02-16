@@ -1,15 +1,15 @@
 # GrandStrategist-AI
 
-Welcome to the Chess Engine project! This project is browser-based chess game develop using HTML, CSS, and Vanilla JavaScript, featuring an AI-powered modes opponent.
+Welcome to the Chess Engine project! This project is browser-based chess game develop using HTML, CSS, and Vanilla JavaScript, featuring an AI-powered modes opponents.
 
 
 # Features:-
 
-## 1. Play vs Computer (AI Mode) games
+## 1. Play vs Computer (AI Mode) game
 
 Engage in a chess match against an AI-powered computer opponent.
 The AI employs sophisticated algorithms and strategies to make intelligent move.
-The difficulty level can be adjusted to suit different skill levels.
+The difficulty level can be adjusted to suit different skill level.
 
 ## 2. Player vs Player
 
@@ -19,7 +19,7 @@ Play with a friend locally by taking turns on the same device.
 ## 3. Responsive Design
 
 The game interface is responsive and adapts to various screen sizes and devices.
-Seamlessly play the game across different devices, including desktops, tablets, and mobile phones.
+Seamlessly play the game across different devices, including desktops, tablets and mobile phones.
 
 
 ## Installation⚡
