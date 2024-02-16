@@ -3,7 +3,7 @@
 Welcome to the Chess Engine project! This project is browser-based chess game develop using HTML, CSS, and Vanilla JavaScript, featuring an AI-powered modes opponent.
 
 
-# Features
+# Features:-
 
 ## 1. Play vs Computer (AI Mode) games
 
