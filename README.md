@@ -1,6 +1,6 @@
 # GrandStrategist-AI
 
-Welcome to the Chess Engine project! This project is browser-based chess game develop using HTML, CSS, and Vanilla JavaScript, featuring an AI-powered modes opponents.
+Welcome to the Chess Engine project! This project is browser-based chess game develop using HTML, CSS, and Vanilla JavaScript, featuring an AI-powered modes opponent.
 
 
 # Features:-
