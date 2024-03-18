@@ -67,7 +67,7 @@ cd Quizfinity
 
 • Implement more advanced AI algorithms for a more challenging computer opponent.
 
-• Enhance the user interface for a better user experiences.
+• Enhance the user interface for a better user experience.
 
 • Add additional customization options and gaming modes.
 
